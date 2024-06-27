@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-image {
+  width: 140px;
+  height: 40px;
+}
+
+.custom-image2 {
+  width: 130px;
+  height: 43px;
+}
+
+.custom-image3 {
+  width: 150px;
+  height: 150px;
+}
+
+.howItWorkImg {
+  width: 58px;
+  height: 42px;
+}
+.custom-image4 {
+  width: 120px;
+  height: 22px;
+}
+
+.aboutImg {
+  width: 590px;
+  height: 590px;
+}
+
+.aboutImg3 {
+  width: 430px;
+  height: 390px;
+}
+
+.serviceLastImg {
+  width: 605px;
+  height: 605px;
+}
+
+/* .background {
+  background-image: url("/priceimg2.png");
+} */
